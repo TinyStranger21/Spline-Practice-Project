@@ -31,6 +31,8 @@ I had a lot more trouble with the interaction bits than the 3D modeling. I don't
 
 The first interaction I started with was the mouse tracking, this was very easy and only takes a few clicks to get. After playing with it a little, it felt a little empty. I decided to create the word "Here" in a sketchy font and make that the object for the eyeball to track. I had to make a few more interaction because the "Here" object need the ability to be clicked and dragged while also controlling the direction of the eyeball. I also was able to change the speed and distance the eye could track the object on screen. This allowed me to make the movement a lot more smooth and eerie.
 
+<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/474fb3f3-bd45-405e-8216-c8c289d83182" />
+
 Tutorial:
 https://youtu.be/L4fD9X_uhtc?si=eiXGO_ICV2tNoRbi
 
@@ -46,6 +48,8 @@ https://youtu.be/_3ETQW_C6s0?si=UhznO-eDmQUTRXZf
 #### Foggy Introduction
 
 I wanted to implement some kind of introduction for the eye ball instead of it just being on screen. Ive played with fog a little bit but never really understood what it did in spline. After watching a tutorial and testing it out, I implemented a base start and start state that happen when the project is played. The eye slowly emerges from the fog and slowly starts tracking the "Here" object. The fog makes it possible to dissapear and appear on the screen with an ominous feel, really adding to the overall project.
+
+<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/1be543e7-e2fd-4462-93cc-ec02022dad96" />
 
 Tutorial:
 https://youtu.be/i29GQQUxtl0?si=aF64-LIO0SKmYq8M
