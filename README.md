@@ -38,6 +38,8 @@ https://youtu.be/L4fD9X_uhtc?si=eiXGO_ICV2tNoRbi
 
 After learning that changing the scale of the eyelids on the Y axis would create a blinking motion, I decided I wanted this to be another interaction. Originally, I made this on click or button press, but this made the user have to hold the button or click in order to make the eye do the full motion. I move from a interaction to making it automated. I added a start event that would make the eyelids transition from base state to state every 3 seconds. I also added a pingpong cycle so that it would close and open the eyelids in the same motion. This made the animation a lot easier and more lifelike because you didn't have to control the blinking
 
+<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/17411a3c-f3cb-49c6-8239-941bfc913fec" />
+
 Tutorial:
 https://youtu.be/_3ETQW_C6s0?si=UhznO-eDmQUTRXZf
 
