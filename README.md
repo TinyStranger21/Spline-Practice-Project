@@ -43,4 +43,11 @@ https://youtu.be/_3ETQW_C6s0?si=UhznO-eDmQUTRXZf
 
 #### Foggy Introduction
 
+I wanted to implement some kind of introduction for the eye ball instead of it just being on screen. Ive played with fog a little bit but never really understood what it did in spline. After watching a tutorial and testing it out, I implemented a base start and start state that happen when the project is played. The eye slowly emerges from the fog and slowly starts tracking the "Here" object. The fog makes it possible to dissapear and appear on the screen with an ominous feel, really adding to the overall project.
 
+Tutorial:
+https://youtu.be/i29GQQUxtl0?si=aF64-LIO0SKmYq8M
+
+## Conclusion
+
+Overall, I love Spline and I am very exicted to learn how to implement more into my models. 3D modeling has always been a passion of mine but I never got far enough to get interactivity into my projects. I am excited to implement 3D interactions into my future websites and projects.
