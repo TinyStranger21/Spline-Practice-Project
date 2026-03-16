@@ -8,8 +8,11 @@ Honestly not a lot went into this phase because the eyeball came to me after I r
 ## Execution
 
 First here are the tutorials that I loosely followed to help me with this project:
+
 https://youtu.be/_3ETQW_C6s0?si=UhznO-eDmQUTRXZf
+
 https://youtu.be/i29GQQUxtl0?si=aF64-LIO0SKmYq8M
+
 https://youtu.be/L4fD9X_uhtc?si=eiXGO_ICV2tNoRbi
 
 ### Modeling the Eye 
