@@ -23,8 +23,10 @@ For the pupil, I kept this as a sphere because I wanted to have more of a 3D eff
 
 My favorite part was making the eye lids. In order to do this, I made a copy of the eyeball shape, scaled it a good amount, and then used the pen tool to create the shape of a persons eye lid opening to I could cut that shape out of the upscaled eyeball copy. This in the end made a full eyelid that would cover every part of the eye excpet the pupil and iris area. The surprising part about this was when I changed the scale of the Y axis, it would make the eyelid close, while not affecting every other part of the eyelid model.
 
-<img width="3456" height="1982" alt="image" src="https://github.com/user-attachments/assets/34a028b9-ef80-4e24-8001-6e4f10083621" />
-
+<img width="1728" height="991" alt="image" src="https://github.com/user-attachments/assets/5b2c6c28-306d-43fb-b01b-a242bc2fba74" />
+<img width="1728" height="991" alt="image" src="https://github.com/user-attachments/assets/5fd84a45-a859-4783-9cd1-817c063eee42" />
+<img width="1728" height="991" alt="image" src="https://github.com/user-attachments/assets/5915dfbf-077c-47ac-a946-461d10cdb5e9" />
+<img width="1728" height="991" alt="image" src="https://github.com/user-attachments/assets/34a028b9-ef80-4e24-8001-6e4f10083621" />
 
 ### Adding Interaction
 
